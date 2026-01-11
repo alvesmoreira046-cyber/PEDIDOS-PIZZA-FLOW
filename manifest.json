@@ -1,0 +1,9 @@
+{
+  "short_name": "PizzaFlow",
+  "name": "PizzaFlow Manager",
+  "icons": [{ "src": "https://img.icons8.com/color/512/pizza.png", "type": "image/png", "sizes": "512x512" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7f1d1d",
+  "background_color": "#ffffff"
+}
